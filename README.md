@@ -1,6 +1,6 @@
-# MMM-Confusius-say: A MagicMirror Module
+# MMM-Confucius-say: A MagicMirror Module
 
-Displays some Confusius say quotes. 
+Displays some Confucius say quotes. 
 
 ![Example](example.png "Example")
 
@@ -9,7 +9,7 @@ Displays some Confusius say quotes.
 Clone this repository in your `~/MagicMirror/modules/` folder:
 
 ```bash
-git clone https://github.com/jttaylor/MMM-Confusius-say
+git clone https://github.com/jttaylor/MMM-Confucius-say
 ```
 
 ## Using the module
@@ -19,7 +19,7 @@ Add the module to the `~/MagicMirror/config/config.js` file:
 ```javascript
 modules: [
 		{
-			module: 'MMM-Confusius-say',
+			module: 'MMM-Confucius-say',
 			position: 'bottom_bar',
 		}
 ]
@@ -30,7 +30,7 @@ You may also add configurations:
 ```javascript
 modules: [
 		{
-			module: 'MMM-Confusius-say',
+			module: 'MMM-Confucius-say',
 			position: 'bottom_bar',
 			config: {
 					updateInterval: 5,
