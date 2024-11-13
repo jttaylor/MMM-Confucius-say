@@ -68,5 +68,5 @@ modules: [
 
 ## How to add your own quotes
 
-You can edit the `MMM-Confusius-say.js` file, if you are comfortable merging them with any remote changes.
+You can edit the `MMM-Confucius-say.js` file, if you are comfortable merging them with any remote changes.
 Alternatively, you may fork this repository to have an exclusive copy you can edit without conflicts.
