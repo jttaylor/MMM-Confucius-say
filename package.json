@@ -1,0 +1,23 @@
+{
+  "name": "mmm-confucius-say",
+  "version": "1.0.0",
+  "description": "Module for MagicMirror² to displays Confucius-say quotes.",
+  "main": "MMM-Confucius-say.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jttaylor/MMM-Confucius-say.git"
+  },
+  "keywords": [
+    "MagicMirror",
+    "Confucius"
+  ],
+  "author": "JT Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jttaylor/MMM-Confucius-say/issues"
+  },
+  "homepage": "https://github.com/jttaylor/MMM-Confucius-say#readme"
+}
